@@ -1,2 +1,3 @@
 # sql-baby-curso
-Códigos desenvolvidos no curso Descomplicando SQL
+Códigos desenvolvidos no curso Descomplicando SQL.
+kiss!
